@@ -1,3 +1,6 @@
+# Программа "Сотрудник"
+
+
 class Worker:
 
     def __init__(self, lname, fname, position, wage, bonus):
